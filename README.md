@@ -5,6 +5,18 @@
 ![Ryesw's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryesw&theme=tokyonight&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rye)](https://solved.ac/rye)
 
+## 📘 Research based on Computer Vision and Machine Learning 📘
+🚘 3D Perception for Autonomous Driving
+
+🚶 Object Detection
+
+📷 3D Reconstruction
+
+💉 Medical Image Analysis
+
+💬 NLP
+
+
 ## 💻 Tech Stacks 💻   
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
