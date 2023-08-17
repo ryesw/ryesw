@@ -1,11 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+# Kim Sung Woo 😊
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryesw&count_bg=%232935C2&title_bg=%233E80C6&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true"/></a>
 
 ![Ryesw's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryesw&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rye)](https://solved.ac/rye)
 
-<h3 align="center">💻 Tech Stacks 💻</h3>   
-<p align="center">
+## 💻 Tech Stacks 💻   
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
@@ -23,11 +24,10 @@
   <img src="https://img.shields.io/badge/Kubernetes-2496ED.svg?&style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp
 </p>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
+## 🌈 Follow Me 🌈
+<p>
   <a href="https://velog.io/@sxngwxx"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sxngwxx"/></a>&nbsp
   <a href="https://www.instagram.com/sxng.wxyz_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sxng.wxyz_/"/></a>&nbsp
   <a href="mailto:tjddnrla0@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={rye})](https://solved.ac/{rye})
