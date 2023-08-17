@@ -1,3 +1,22 @@
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/python-배경색?style=flat-square&logo=#3776AB&logoColor=로고색상"/></a>\
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+## 💻 Tech Stacks 💻
+    
+<br/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=falt-square&logo=Python&logoColor=white"/> 
+<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=falt-square&logo=C&logoColor=white"/> 
+<img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=falt-square&logo=C%2B%2B&logoColor=white"/>  
+</br>
+
+<br/>
+<img alt="Pytorch" src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=falt-square&logo=Pytorch&logoColor=white"/> 
+<img alt="Tensorflow" src ="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=falt-square&logo=Tensorflow&logoColor=white"/> 
+<img alt="Keras" src ="https://img.shields.io/badge/Keras-D00000.svg?&style=falt-square&logo=Keras&logoColor=white"/>
+</br>
+
+<br/>
+<img alt="OpenCV" src ="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=falt-square&logo=OpenCV&logoColor=white"/>  
+<img alt="Pandas" src ="https://img.shields.io/badge/Pandas-150458.svg?&style=falt-square&logo=Pandas&logoColor=white"/> <br/> 
+<img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD .svg?&style=falt-square&logo=JQuery&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=falt-square&logo=React&logoColor=white"/>  
+<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> 
+<br/>
+
 [![Solved.ac rye](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
