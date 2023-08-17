@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryesw&count_bg=%232935C2&title_bg=%233E80C6&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true"/></a>
+
+![Rye's GitHub stats](https://github-readme-stats.vercel.app/api?username=rye&show_icons=true&theme=radical)
+
 <h3 align="center">💻 Tech Stacks 💻</h3>   
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
