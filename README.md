@@ -2,7 +2,7 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryesw&count_bg=%232935C2&title_bg=%233E80C6&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true"/></a>
 
-![Rye's GitHub stats](https://github-readme-stats.vercel.app/api?username=rye&show_icons=true&theme=radical)
+![Ryesw's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryesw&show_icons=true&theme=radical)
 
 <h3 align="center">💻 Tech Stacks 💻</h3>   
 <p align="center">
@@ -30,4 +30,4 @@
   <a href="mailto:tjddnrla0@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
-[![Solved.ac rye](http://mazassumnida.wtf/api/v2/generate_badge?boj={rye})](https://solved.ac/{rye})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={rye})](https://solved.ac/{rye})
