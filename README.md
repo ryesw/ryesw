@@ -12,4 +12,4 @@
 <img alt="OpenCV" src ="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=OpenCV&logoColor=white"/>  <img alt="Pandas" src ="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=Pandas&logoColor=white"/> <br/> <img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD .svg?&style=flat-square&logo=JQuery&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white"/> <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> 
 <br/>
 
-[![Solved.acrye](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac rye](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{rye})
