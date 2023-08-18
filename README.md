@@ -3,6 +3,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryesw&count_bg=%232935C2&title_bg=%233E80C6&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true"/></a>
 
 ![Ryesw's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryesw&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryesw&layout=compact&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rye)](https://solved.ac/rye)
 
 ## 📘 Research based on Computer Vision and Machine Learning 📘
