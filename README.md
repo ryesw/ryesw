@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/Scikit learn-F7931E.svg?&style=flat-square&logo=Scikit-learn&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=OpenCV&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/YOLO-00FFFF.svg?&style=flat-square&logo=YOLO&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=Pandas&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Numpy-00A3E0.svg?&style=flat-square&logo=Numpy&logoColor=white"/></a>&nbsp
   <br>
