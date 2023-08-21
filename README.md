@@ -9,7 +9,7 @@
 ## 📘 Research based on Computer Vision and Machine Learning 📘
 🚘 3D Perception for Autonomous Driving
 
-🚶 Object Detection
+🚶 Object Detection & 6-DOF Pose Estimation
 
 📷 3D Reconstruction
 
