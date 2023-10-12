@@ -15,8 +15,6 @@
 
 💉 Medical Image Analysis
 
-💬 NLP
-
 
 ## 💻 Tech Stacks 💻   
 <p>
